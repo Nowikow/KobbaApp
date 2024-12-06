@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KobbaJS</string>
+
+    <string name="angle_hint_1">Угол первой дуги</string>
+    <string name="angle_hint_2">Угол второй дуги</string>
+
+    <string name="clear_angle_button">Заново</string>
+    <string name="save_button">Сохранить</string>
+    <string name="angle_button">Измерить</string>
+
+
+    <string name="result_button">Результат</string>
+    <string name="clear_button">Очистить</string>
+
+    <string name="back_button">Назад</string>
+
+    <string name="result_one">Большая дуга главная</string>
+    <string name="result_two">Обе дуги главные</string>
+    <string name="result_none">Не хватает данных</string>
+
+    <string name="result_text">Угол дуги: </string>
+
+</resources>
